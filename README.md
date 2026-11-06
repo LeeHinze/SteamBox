@@ -5,7 +5,7 @@
 
 ## Online play
 
-**The only place where you can play online (multiplayer, Steam friends, Steam servers) is the `OPEN STEAM` button.**
+**The only place where you can play online (multiplayer, Steam friends, Steam servers) is the `LAUNCHER` button.**
 It starts the real Steam client inside the app. Sign in there, open your Library and launch the game from Steam itself.
 
 Games started from the launcher's own library run in offline/local mode and have no online features.
